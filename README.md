@@ -2,7 +2,7 @@
 ---
 ![](Images/Union_Europea.jpg)
 
-Podermos ver muchas cosa que pueden interesar a una persona, como la utilización de la enregias renovables y la dependencia de las no renovables, el consumo de enrgía de cada pais, el precio de la luz, o la relación del gas con este. Todos eso datos se encuentran el el proyecto de Tableau: [**European_Energy**](https://public.tableau.com/views/Proyecto_T_16763093826450/Energa_Europea?:language=es-ES&:display_count=n&:origin=viz_share_link)
+Podemos ver muchas cosa que pueden interesar a una persona, como la utilización de la energías renovables y la dependencia de las no renovables, el consumo de energía de cada país, el precio de la luz, o la relación del gas con este. Todos eso datos se encuentran el proyecto de Tableau: [**European_Energy**](https://public.tableau.com/views/Proyecto_T_16763093826450/Energa_Europea?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 # Motivación
 ---
